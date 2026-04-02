@@ -1,0 +1,11 @@
+release/global.o
+release/httpmgr.o
+release/logindialaog.o
+release/main.o
+release/mainwindow.o
+release/registdialog.o
+release/qrc_rc.o
+release/moc_httpmgr.o
+release/moc_logindialaog.o
+release/moc_mainwindow.o
+release/moc_registdialog.o

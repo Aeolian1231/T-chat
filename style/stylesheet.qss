@@ -1,0 +1,31 @@
+QDialog#login, #registdialog{
+background-color:rgb(255,255,255)
+}
+
+#user_label, #pass_label{
+    color:black;
+}
+
+#email_err_tip[state = 'normal']{
+    color: green;
+}
+
+#email_err_tip[state = 'err']{
+    color: red;
+}
+
+#pass_err_tip[state = 'err']{
+    color: red;
+}
+
+#pass_err_tip[state = 'normal']{
+    color: green;
+}
+
+#req_err_tip[state = 'normal']{
+    color: green;
+}
+
+#req_err_tip[state = 'err']{
+    color: red;
+}
